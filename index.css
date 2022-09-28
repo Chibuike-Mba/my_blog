@@ -1,0 +1,43 @@
+html {
+    width: 1366px;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    background-color: black;
+    color: rgb(230, 16, 16);
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-transform: capitalize;
+    text-align: center;
+    color: rgb(2, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+footer {
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(19, 6, 6);
+    color: rgb(202, 192, 236);
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    margin-left: 45%;
+    background-color: rgb(230, 135, 11);
+    color: rgb(10, 10, 10);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.background-color {
+    background-color: rgb(5, 41, 201);
+}
